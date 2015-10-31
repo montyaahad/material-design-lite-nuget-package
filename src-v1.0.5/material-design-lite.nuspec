@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>material-design-lite</id>
+    <version>1.0.5</version>
+    <authors>Abdul Ahad</authors>
+    <owners>Abdul Ahad</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. Optimized for cross-device use, gracefully degrades in older browsers, and offers an experience that is accessible from the get-go.</description>
+    <releaseNotes>Initial version of the nuget package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>material design google css js</tags>
+  </metadata>
+</package>
