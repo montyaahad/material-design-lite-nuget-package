@@ -4,3 +4,5 @@
 To install the package, go to package manager console and run the following command -
 
 `PM> Install-Package material-design-lite`
+
+Then you will find all the necessary contents under your project's `Content>mdl-vX.X.X` folder.
