@@ -6,3 +6,10 @@ To install the package, go to package manager console and run the following comm
 `PM> Install-Package material-design-lite`
 
 Then you will find all the necessary contents under your project's `Content>mdl-vX.X.X` folder.
+
+Add the following `<link>` and `<script>` elements in your HTML:
+
+    <link rel="stylesheet" href="/Content/mdl-vX.X.X/material.min.css">
+    <script src="/Content/mdl-vX.X.X/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
