@@ -13,3 +13,4 @@ Add the following `<link>` and `<script>` elements in your HTML:
     <script src="/Content/mdl-vX.X.X/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
+NuGet Package : https://www.nuget.org/packages/material-design-lite/
